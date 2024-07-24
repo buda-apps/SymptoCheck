@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+
+  <features>
+    <feature name="show-titles" value="true"/>
+    <feature name="show-subtitles" value="true"/>
+    <feature name="show-references" value="true"/>
+    <feature name="show-text-size-button" value="true"/>
+    <feature name="launch-action" value="contents"/>
+    <feature name="navigation-type" value="up"/>
+  </features>
+
+  <contents-items>
+    <contents-item id="1">
+      <title lang="default">སྙིང་ནད་ཀྱི་རིགས།</title>
+      <subtitle lang="default">རེ་རེ་ལ་གོ་དཀའ་སླ་གཉིས་རེ་ཡོད།</subtitle>
+      <image-filename>Heart-d2d.png</image-filename>
+      <link type="screen" target="2" />
+    </contents-item>
+
+    <contents-item id="2">
+      <title lang="default">ཁ༽ སྙིང་གཟེར།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B001" />
+    </contents-item>
+
+    <contents-item id="3">
+      <title lang="default">ང༽ སྙིང་ཆུ།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B002" />
+    </contents-item>
+
+    <contents-item id="4">
+      <title lang="default">ཀ༽ སྙིང་འཕྱོས།</title>
+      <image-filename>image1.jpeg</image-filename>
+      <link type="reference" target="B003" />
+    </contents-item>
+
+    <contents-item id="5">
+      <title lang="default">ག༽ སྙིང་ཚད།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B004" />
+    </contents-item>
+
+    <contents-item id="6">
+      <title lang="default">ཅ༽ སྙིང་འཐིབས།</title>
+      <image-filename>image2.jpeg</image-filename>
+      <link type="reference" target="B005" />
+    </contents-item>
+
+    <contents-item id="7">
+      <title lang="default">ཆ༽ སྙིང་ནད་སྲིན་འགྱུར།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B006" />
+    </contents-item>
+
+    <contents-item id="8">
+      <title lang="default">ཇ༽ སྙིང་ནད་ཁ་ལེ་ནག་པོ།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B007" />
+    </contents-item>
+
+    <contents-item id="9">
+      <title lang="default">གློ་ནད་ཀྱི་རིགས།</title>
+      <subtitle lang="default">རེ་རེ་ལ་གོ་དཀའ་སླ་གཉིས་རེ་ཡོད།</subtitle>
+      <image-filename>lung-d2d.png</image-filename>
+      <link type="screen" target="3" />
+    </contents-item>
+
+    <contents-item id="10">
+      <title lang="default">ཁ༽ གློ་ནད་སྐྱ་རྦབ།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B009" />
+    </contents-item>
+
+    <contents-item id="11">
+      <title lang="default">ཀ༽ རླུང་གློ་ཐང་པོ།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B008" />
+    </contents-item>
+
+    <contents-item id="12">
+      <title lang="default">གློ་ནད་ཚ་བ།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B010" />
+    </contents-item>
+
+    <contents-item id="13">
+      <title lang="default">གློ་ནད་ཆུ་ཤོར།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B011" />
+    </contents-item>
+
+    <contents-item id="14">
+      <title lang="default">མཆིན་ནད་ངོས་འཛིན།</title>
+      <subtitle lang="default">རེ་རེ་ལ་གོ་དཀའ་སླ་གཉིས་རེ་ཡོད།</subtitle>
+      <image-filename>liver-d2d.png</image-filename>
+      <link type="screen" target="4" />
+    </contents-item>
+
+    <contents-item id="15">
+      <title lang="default">མཆིན་ནད་ལྡེམ་བུ།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B012" />
+    </contents-item>
+
+    <contents-item id="16">
+      <title lang="default">མཆེར་ནད་ངོས་འཛིན།</title>
+      <subtitle lang="default">རེ་རེ་ལ་གོ་དཀའ་སླ་གཉིས་རེ་ཡོད།</subtitle>
+      <image-filename>spleen-d2d.png</image-filename>
+      <link type="screen" target="5" />
+    </contents-item>
+
+    <contents-item id="17">
+      <title lang="default">མཆེར་ནད་ཚ་བ།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B013" />
+    </contents-item>
+
+    <contents-item id="18">
+      <title lang="default">མཁལ་ནད་ཀྱི་རིགས།</title>
+      <subtitle lang="default">རེ་རེ་ལ་གོ་དཀའ་སླ་གཉིས་རེ་ཡོད།</subtitle>
+      <image-filename>Kidney-d2d.png</image-filename>
+      <link type="screen" target="6" />
+    </contents-item>
+
+    <contents-item id="19">
+      <title lang="default">མཁལ་རླུང།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B014" />
+    </contents-item>
+
+    <contents-item id="20">
+      <title lang="default">ཕོ་བའི་ནད་ཀྱི་རིགས།</title>
+      <image-filename>Stomach-d2d.png</image-filename>
+      <link type="screen" target="7" />
+    </contents-item>
+
+    <contents-item id="21">
+      <title lang="default">ཕོ་རླུང་།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B015" />
+    </contents-item>
+
+    <contents-item id="22">
+      <title lang="default">རྒྱུ་ནད་ཀྱི་རིགས།</title>
+      <image-filename>Intestine-d2d.png</image-filename>
+      <link type="screen" target="8" />
+    </contents-item>
+
+    <contents-item id="23">
+      <title lang="default">རྒྱུ་ཁྲོལ།</title>
+      <image-filename>image1.png</image-filename>
+      <link type="reference" target="B016" />
+    </contents-item>
+  </contents-items>
+
+  <contents-screens>
+    <contents-screen id="1">
+      <title lang="default">Home</title>
+      <items>
+        <item id="1" />
+        <item id="9" />
+        <item id="14" />
+        <item id="16" />
+        <item id="18" />
+        <item id="20" />
+        <item id="22" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="2">
+      <title lang="default">སྙིང་ནད་ངོས་འཛིན།</title>
+      <items>
+        <item id="4" />
+        <item id="2" />
+        <item id="5" />
+        <item id="3" />
+        <item id="6" />
+        <item id="7" />
+        <item id="8" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="3">
+      <title lang="default">གློ་ནད་ངོས་འཛིན།</title>
+      <items>
+        <item id="11" />
+        <item id="10" />
+        <item id="12" />
+        <item id="13" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="4">
+      <title lang="default">མཆིན་ནད་ངོས་འཛིན།</title>
+      <items>
+        <item id="15" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="5">
+      <title lang="default">མཆེར་ནད་ངོས་འཛིན།</title>
+      <items>
+        <item id="17" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="6">
+      <title lang="default">མཁལ་ནད་ངོས་འཛིན།</title>
+      <items>
+        <item id="19" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="7">
+      <title lang="default">ཕོ་བའི་ནད་ངོས་འཛིན།</title>
+      <items>
+        <item id="21" />
+      </items>
+    </contents-screen>
+
+    <contents-screen id="8">
+      <title lang="default">རྒྱུ་ནད་ངོས་འཛིན།</title>
+      <items>
+        <item id="23" />
+      </items>
+    </contents-screen>
+  </contents-screens>
+</contents>
